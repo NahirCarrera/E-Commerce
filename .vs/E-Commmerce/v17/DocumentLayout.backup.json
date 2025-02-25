@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\category\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\category\\_changecategoryform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\_changecategoryform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\category\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\views\\product\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\product\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|e:\\octavo semestre\\2530 pruebas de software\\e-commmerce\\e-commmerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ChangeCategoryForm.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\_ChangeCategoryForm.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\_ChangeCategoryForm.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\_ChangeCategoryForm.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\_ChangeCategoryForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:50:13.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\Details.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:50:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:32:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAkwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:27:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:27:39.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserIndex.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:17:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:27:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Create.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:32:13.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Roles.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\Roles.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:36.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:17:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:17:22.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:32:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAArwG4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:20:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAMwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:20:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Product.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:32.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Category.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\Category.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:21:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:17:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserIndex.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:17:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:17:22.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commmerce\\appsettings.json",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\appsettings.json",
+              "RelativeToolTip": "E-Commmerce\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T00:17:28.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\libman.json",
+              "RelativeDocumentMoniker": "E-Commmerce\\libman.json",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\libman.json",
+              "RelativeToolTip": "E-Commmerce\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T00:18:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Program.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Program.cs",
+              "RelativeToolTip": "E-Commmerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:17:22.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "ToolTip": "E:\\OCTAVO SEMESTRE\\2530 PRUEBAS DE SOFTWARE\\E-Commmerce\\E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:17:22.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
